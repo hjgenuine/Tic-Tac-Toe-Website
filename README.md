@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Website
-Tic Tac Toe Website created using HTML, CSS and Javascript with a Royale UI Design.
-&nbsp;
-Preview: https://hjgenuine.github.io/Tic-Tac-Toe-Website/
-&nbsp;
+Tic Tac Toe Website created using HTML, CSS and Javascript with a Royale UI Design. <br/>
+&nbsp; <br/>
+Preview: https://hjgenuine.github.io/Tic-Tac-Toe-Website/ <br/>
+&nbsp; <br/>
 ![image](https://user-images.githubusercontent.com/64316945/188265530-c49d953b-ef14-47f4-8ccb-d90fb5f209cf.png)
